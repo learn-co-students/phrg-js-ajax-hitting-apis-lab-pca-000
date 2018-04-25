@@ -58,3 +58,4 @@ branch of the repository. Give the link data attributes of `username` and
 - [GitHub API](https://developer.github.com/v3/)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-git-hub-api-with-xhr-lab'>GitHub API With XHR Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG JavaScript GitHub API with XHR</p>
