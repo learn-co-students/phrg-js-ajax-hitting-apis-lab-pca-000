@@ -53,6 +53,9 @@ that fills the `details` div with a list of names of each
 branch of the repository. Give the link data attributes of `username` and
 `repository` for use by the `getBranches` function.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-ajax-hitting-apis-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-ajax-hitting-apis-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 - [GitHub API](https://developer.github.com/v3/)
